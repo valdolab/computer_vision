@@ -1,2 +1,2 @@
 # Computer vision
-## This is a repo for computer vision solutions, using mostly Transfer Learning
+This is a repo for computer vision projects, used mostly Transfer Learning
